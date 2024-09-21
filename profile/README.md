@@ -1,4 +1,4 @@
-# 🔥🔥  ODTÜ Blockchain DEV Presents: _Zero to Full-Stack Web3 Development Bootcamp_
+# 🔥🔥  ODTÜ Blockchain DEV Presents: _Zero to Full-Stack Web3 Development Bootcamp (Certificate Eligible)_
 
 ## Bootcamp Details - English
 👨‍💻 **Instructor:** Hüseyin Karataş - METU Blockchain DEV Lead ( [Follow on Twitter](https://twitter.com/0xDuplantier) ) ( [See on LinkedIn](https://bit.ly/huseyinkaratas-linkedin) )
